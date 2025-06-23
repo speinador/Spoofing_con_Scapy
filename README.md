@@ -38,8 +38,9 @@ sudo apt install python3-scapy
 **Ejecución**
 1. **Guarda el script:** Guarda el código proporcionado como ip_spoof.py.
 ```
-CODIGO!!!!
+https://github.com/speinador/Spoofing_con_Scapy/blob/main/ip_spoof.py
 ```
+
 2. **Ejecútalo desde tu terminal:**
 
 ```
